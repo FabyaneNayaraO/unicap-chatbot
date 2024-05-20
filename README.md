@@ -8,6 +8,13 @@ Bem-vindo à documentação do projeto Chatbot Unicap! Este documento oferece in
 
 O chatbot foi projetado para fornecer informações relevantes sobre a Universidade Católica de Pernambuco. Os usuários podem iniciar uma conversa e obter respostas automáticas.
 
+## Modo de uso
+
+O Chatbot Acadêmico, necessita que os alunos se identifiquem por meio de informações como nome, resgistro academico(matrícula), curso e o turno que o aluno se encontra, além de guiar os alunos através de um processo interativo de identificação para oferecer suporte personalizado. Os alunos podem tirar dúvidas sobre uma variedade de tópicos acadêmicos, solicitar informações específicas, como histórico acadêmico ou procedimentos de tratamento excepcional, e entrar em contato conosco para assistência adicional caso necessário.
+
+
 ## Considerações Finais
 
 Este projeto é uma contribuição valiosa para o TCC, demonstrando a implementação prática de um chatbot para facilitar a interação e fornecer informações aos usuários da Universidade Católica de Pernambuco.
+
+
